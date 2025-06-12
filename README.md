@@ -1,24 +1,31 @@
 # Assimp-FBX-OpenGL-Loader
 
-### 🏫 Spring 2025 Computer Graphics Term Project
-
 **Load, skin and render FBX models with skeletal animation in OpenGL via Assimp.**
 
-[🇰🇷 Read in Korean](./README_KR.md)
+[🇰🇷 Read in Korean(한국어)](./README_KR.md)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/75c1f3c1-2bf7-458d-bd32-96314e74e6b5" alt="Project Thumbnail" width="600"/>
+</div>
+
+
+<br />
 
 ## 🔑 Keywords  
-OpenGL, FBX, Assimp, Loader, Skeletal Animation, C++, GLEW, FreeGLUT
+OpenGL, FBX, Assimp, Loader, Skeletal Animation, C++, GLEW, FreeGLUT, mixamo
 
----
+<br />
 
 ## 🚀 Features
+https://github.com/user-attachments/assets/65a29743-ab7f-44dc-b8e9-031150845f2f
+
 - 🔹 Load `.fbx` character models with embedded textures (via Assimp)
 - 🔹 Parse bone hierarchy & skinning weights
 - 🔹 Real-time skeletal animation playback
 - 🔹 Camera rotation & animation speed control
 - 🔹 Key-based dance animation switching (1→6 keys)
 
----
+<br />
 
 ## ⚙️ Build & Run
 
@@ -40,6 +47,7 @@ OpenGL, FBX, Assimp, Loader, Skeletal Animation, C++, GLEW, FreeGLUT
     ```
 5. Run the project: Ctrl + F5
 
+<br />
 
 ## 🎮 Controls
 
@@ -58,3 +66,10 @@ OpenGL, FBX, Assimp, Loader, Skeletal Animation, C++, GLEW, FreeGLUT
 | 4   | Break Spin              |
 | 5   | Mime                    |
 | 6   | One-Hand Freeze Combo   |
+
+
+### Asset Notice
+
+Character and animation assets are provided by Adobe Mixamo.This project is for non-commercial educational and demo purposes only.
+
+⚠️ Redistribution of Mixamo assets as standalone files is prohibited.
