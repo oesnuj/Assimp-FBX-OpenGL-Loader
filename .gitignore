@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.vcxproj.user
+*.VC.opendb
+*.VC.db
+
+# 빌드 결과
+[Bb]in/
+[Oo]bj/
+x64/
+Debug*/
+Release*/
+
+# NuGet 패키지 (실제 바이너리) 제외
+packages/
+*.nupkg
+project.assets.json
+
+# vcpkg 설치 폴더 제외 (필요에 따라)
+vcpkg/
