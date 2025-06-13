@@ -20,8 +20,6 @@ OpenGL, FBX, Assimp, Loader, Skeletal Animation, C++, GLEW, FreeGLUT, mixamo
 
 https://github.com/user-attachments/assets/c5bd6d7b-379e-4678-a750-4db8e5458892
 
-031150845f2f
-
 - 🔹 Load `.fbx` character models with embedded textures (via Assimp)
 - 🔹 Parse bone hierarchy & skinning weights
 - 🔹 Real-time skeletal animation playback
